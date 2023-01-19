@@ -22,7 +22,7 @@ Why do we use methods?
 3. To determine the execution time of a program.
 4. To interrupt the execution of a program.""")
 answer = input()
-while answer != "2.":
+while answer != "2":
     print("Please, try again.")
     answer = input()
 print("Congratulations, have a nice day!")
